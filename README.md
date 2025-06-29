@@ -39,7 +39,7 @@ Developed complete email-to-PDF conversion functionality with advanced features:
 
 Demo available at: https://stirling.szucsb.eu/eml-to-pdf (*Please note: This demo runs on an alpha version of Stirling-PDF. As a pre-release, you may encounter some bugs or unexpected behavior.*)
 
-*Note: Some of the attachment handling code was later reused to help implement the [add-attachments feature](https://stirling.szucsb.eu/add-attachments), assisting the maintainer with this additional functionality.*
+*Note: Some of the attachment handling code was later reused to help implement the [add-attachments feature](https://stirling.szucsb.eu/add-attachments), assisted the maintainer with this additional functionality.*
 
 **2. "Fake Scan" Feature Development**
 *GitHub Commit: [631c4fef0baefa30f03cf8170aa47a9ef305013a](https://github.com/Stirling-Tools/Stirling-PDF/commit/631c4fef0baefa30f03cf8170aa47a9ef305013a)*

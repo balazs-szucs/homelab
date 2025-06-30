@@ -1,4 +1,4 @@
-# Homelab Infrastructure
+# Homelab
 
 This is a self-hosted infrastructure built with Docker containers. Highlights: containerization, reverse proxy setup, security, and automated service management.
 

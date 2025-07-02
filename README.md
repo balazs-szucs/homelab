@@ -21,7 +21,7 @@ This homelab project includes:
 Contributed features to Stirling PDF, a popular open-source document processing application used by many people worldwide. 
 
 **1. EML to PDF Conversion Feature**
-*GitHub Commit (initial PR): [9fbb0325b52bd27f01c62eeca3bd937200619c9c](https://github.com/Stirling-Tools/Stirling-PDF/commit/9fbb0325b52bd27f01c62eeca3bd937200619c9c)*
+*GitHub Commit (initial PR): [#3650]([https://github.com/Stirling-Tools/Stirling-PDF/commit/9fbb0325b52bd27f01c62eeca3bd937200619c9c](https://github.com/Stirling-Tools/Stirling-PDF/pull/3650))*
 
 Developed complete email-to-PDF conversion functionality with advanced features:
 
@@ -42,7 +42,7 @@ Demo available at: https://stirling.szucsb.eu/eml-to-pdf (*Please note: This dem
 *Note: Some of the attachment handling code was later reused to help implement the [add-attachments feature](https://stirling.szucsb.eu/add-attachments), assisted the maintainer with this additional functionality.*
 
 **2. "Fake Scan" Feature Development**
-*GitHub Commit: [631c4fef0baefa30f03cf8170aa47a9ef305013a](https://github.com/Stirling-Tools/Stirling-PDF/commit/631c4fef0baefa30f03cf8170aa47a9ef305013a)*
+*GitHub Commit: [#3650]([https://github.com/Stirling-Tools/Stirling-PDF/commit/631c4fef0baefa30f03cf8170aa47a9ef305013a](https://github.com/Stirling-Tools/Stirling-PDF/pull/3530))*
 
 Built realistic document scanning simulation with a lot of customization options:
 
